@@ -20,5 +20,5 @@ N/A
 
 ## License
 
-refer to LICENSE attached in the repository
+refer to LICENSE in the repository
 
